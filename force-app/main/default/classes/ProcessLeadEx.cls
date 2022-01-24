@@ -7,7 +7,7 @@ public class ProcessLeadEx {
 
        for(lead le:leads) {
             le.firstname = 'sfdctest';
-           le.title = 'from apex code';
+           le.title = 'from apex code 233 45555';
 	} 
       upsert leads;
     }
